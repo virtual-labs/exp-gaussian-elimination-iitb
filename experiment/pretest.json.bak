@@ -1,0 +1,29 @@
+[
+    {
+        "question": "The partial pivoting _______________________",
+        "qid": 1,
+        "option_a": "may improve the accuracy of the solution",
+        "option_b": "will always improve the accuracy of the solution",
+        "option_c": "will not change the accuracy of the solution",
+        "option_d": "always decreases the accuracy of the solution",
+        "correct_option": "a"
+    },
+    {
+        "question": "Gauss elimination method is a _______________________",
+        "qid": 2,
+        "option_a": "direct method",
+        "option_b": "indirect method",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "The lost variable's (eliminated) is brought back by _______________________",
+        "qid": 3,
+        "option_a": "Partial pivoting",
+        "option_b": "Matrix inversion method",
+        "option_c": "Back substitution method",
+        "option_d": "Upper triangular method",
+        "correct_option": "c"
+    }
+]
