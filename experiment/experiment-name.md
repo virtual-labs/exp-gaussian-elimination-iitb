@@ -1,1 +1,1 @@
-## Experiment name
+## System of Linear Equations - Gaussian Elimination
